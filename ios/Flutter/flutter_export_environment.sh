@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/tasneem.diz/AndroidStudioProjects/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/tasneem.diz/Documents/FlutterProjects/mi_card_flutter"
-export "FLUTTER_TARGET=/Users/tasneem.diz/Documents/FlutterProjects/mi_card_flutter/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/tasneem.diz/Documents/FlutterProjects/TheCardApp"
+export "FLUTTER_TARGET=/Users/tasneem.diz/Documents/FlutterProjects/TheCardApp/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "OTHER_LDFLAGS=$(inherited) -framework Flutter"
